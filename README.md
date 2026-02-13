@@ -1,2 +1,2 @@
 # assignment3_first
-This is the first repository for assignment 3
+This is the 1st repository for assignment 3
